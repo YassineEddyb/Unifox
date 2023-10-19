@@ -1,6 +1,6 @@
-# Portfolio-Templete
-This is a Portfolio Templete using HTML, CSS, JS 
-and JQuery for desing and Bootstarp, Media Query 
-for make it responsive on all screens .
-this Template is a copy from a Template on teamforet 
-but all coding from me.
+# Unifox
+Unifox is a Design Agency Portfolio Templete built using 
+HTML, CSS, JS, JQuery and Bootstarp, Media Query 
+to make it responsive on all screens.This Template
+is inspired by a design in teamforet but it all the 
+coding was done by me.
